@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vivid-argon-181713",
+  "private_key_id": "c064c0ab2a13941c548bea394c9d5b8a9d980006",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDei2drvNQJ6PDp\nFofM5UnQvPCgzXDf49rJpCKmnfGyCkgbYR9oKSPy/+Qck3aUvNG39iXeQuKcfjXW\n6W+0TpDkQZewjxzj1zlz2Lmkafj0eIhdviroLLXdE6W8YTjwLYr86mgIYOQxmrYV\nX6A02GDULVkZ5rdrh0wtG59bT2xt9yGu1r0xy1U0YRSU/NzmkAKOKKZluBH/7wp1\nng9z4/uzjE08+VOgmwBG6bhJJFNOCNwb1v9y6AEZzxhcWBMZX1yR+o29LokRzyRL\neMpKi1cbq8ZM1d5FibFMOGCJGojQpfJEiHp9oXW88x5t42mpGeSg+CoggZAyHnnp\nNic0/1xhAgMBAAECggEAFcvUA4SRRO40aDPddZcwaVoT/D/a0gbURyMFBMob4brp\nkIrs40wCOhrPafAUcWFj7e9VCqWE4dxnpAaleuSmAsEc3P1LUFJkTWEY345EhJco\njfvh4m78mexCc4aXJ8jiH77KlSV+PBCBzGqa+4oEw8s0Opny9XxhHNrjevM2tLdM\nqyLxSGqr3fXvut+6TPQiZmi+REgWb5fW/8NXXAeXlHNjrX2iu2qQehvR9JhdVZ0s\nX8V8yt36teyeYi9KA2VzraI97hYthS0E795duXCFkQ2J5hqY7lsPdu5wh3HVKiQn\n2MS/zO67jyLo/SJRum9iB3v0T2AWeBDvS71J+a1HZQKBgQDvYAiKISzWW8g8XEfH\nudm4GpcIe6zIQFuWW+Ab40nzTGA9tc0vrJm7vS5JVlVV6hRHiaOqBIwNIPJFle8q\nkuIp09VpOISQM4QvJHVrN7zrOyMLhtcw8g+5YgWo2vBW+FugMf2v7rtGq0ijKO75\nRf8ONuRsmnvW+rw40YlFmlSVBQKBgQDuACGrDI2IqXuh8ClddKTZCDALsQ6PTqz8\nKvU8DDOWrKtzygEMOwZoLTs03K46ha+uxD1NTPxwkikJqX9icNV6ArKLu5Gb92NA\nfwNjOqPJOwjlYgSUD91nf43sAG3pdT9nLwFC6xZ2dw9kEMkNN614KnG2lzTDDSbB\nDPabT7yIrQKBgEKi9T2epqC1xDQpbEIJVraNkGXoJ91HLTfaM7UPvNJh/JixN4GC\nBvngXDZGNlNIaoTPqCP4SBSPi2Ibrwym/xatxccY2K5b6PxGpflG9ux09fiLfPQ/\nLmlpBDJRYH6VfMxHnluPlcrCe+IPzxbNiYcneMdS6g6aljMrAY/CurERAoGBAICB\nfaxX2MvjhyfG/u7BHok5DIgjj9L9DhYSM9u6UtiWXvTkK3CpJip10bQXO9PJfzSE\nLP1iBiPaJ2JaLLfAaOO6NSGRo2ttRh/69J9NeEYdJA6GwCYZ8tgBXWYCTVZywks6\nbBnvyW8plhvXnFcQqw9pC4ElX425uiUelMEDaq75AoGACvxXtHXR2PGbcSfArsnx\n1Sw9ZPVP5Y/S7WMJDtastQfLWgyIez8JQvPJpYc47MV17+jiN4mf+qv/WCPPtZ9D\ndcEO1Eo22daLKsPVQtHDUK2XVuPRD3Ya3zE597t4LeSG+kHvzXllCWz/jL9nX90R\nHGCKUgT5lxnEeHeq2uczApw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-de-servi-o-de-teste--338@vivid-argon-181713.iam.gserviceaccount.com",
+  "client_id": "103556309947560883901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-de-servi-o-de-teste--338%40vivid-argon-181713.iam.gserviceaccount.com"
+}
